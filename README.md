@@ -1,4 +1,4 @@
 # Java
 
 
-This Repo will contain practise Java programs from Code Academy, Youtube, LeetCode Etc 
+This Repo will contain practice Java programs from Code Academy, Youtube, LeetCode Etc 
