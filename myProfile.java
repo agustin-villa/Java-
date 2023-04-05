@@ -24,7 +24,7 @@ Create a variable called lookingForJob that holds whether or not you are current
 
 */
 
-public class MyProfile {
+public class myProfile {
 	public static void main(String[] args) {   
 
     String name  = "Agustin";
