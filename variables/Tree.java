@@ -1,3 +1,4 @@
+package variables;
 // Define your tree class in this file!
 
 public class Tree{

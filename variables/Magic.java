@@ -1,3 +1,4 @@
+package variables;
 /*
  Create an int variable called myNumber.
 
