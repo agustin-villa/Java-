@@ -17,6 +17,8 @@ public class Store {
   public static void main(String[] args) {
     //Instance of class store 
     Store cookieShop = new Store("cookies", 12, 3.75);
+    System.out.println(cookieShop);
+    
     
   }
 }
